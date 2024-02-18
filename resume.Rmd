@@ -121,7 +121,7 @@ position_data %>% print_section('positions')
 ```
 
 
-Academic Research Experience {data-icon=graduation-cap data-concise=true}
+Academic Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ```{r}
